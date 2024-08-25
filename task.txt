@@ -1,0 +1,10 @@
+Giúp sinh viên hiểu về khái niệm về lỗ hổng bảo mật và cách phát hiện các lỗ hổng bảo mật ,
+tấn công và cài đặt và cài của hậu (backdoor) và sử dụng các công cụ rà quét và tấn công vào lỗ hổng bảo mật
+
+
+
+- Task 1: Scan tất cả các máy đang hoạt dông trong mạng LAN và dịch vụ đang chạy trên máy victim
+- Task 2: Cài đăt file setup.sh trên web server đẻ tạo file cài backdoor dùng netcat
+- Task 3: Dùng msfconsole tìm kiếm module và thể tấn công lỗ hổng rmi
+- Task 4: Dùng netcat tạo reverse shell và tự đông kết nối lại sau 1 khoang thời gian nhất định 
+- Task 5: Dùng netcat đề khai thác reverse shell
